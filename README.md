@@ -1,1 +1,1 @@
-This is bnary _trees project
+This is binary _trees project
